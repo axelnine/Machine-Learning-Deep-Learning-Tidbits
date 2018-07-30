@@ -1,2 +1,3 @@
-# Machine-Learning-Deep-Learning-Tidbits
-A repository dedicated to small projects/random implementations in Deep Learning
+# MySQL Connector in Python
+
+This code template contains functions to help connect a MySQL database in Python for reference.
