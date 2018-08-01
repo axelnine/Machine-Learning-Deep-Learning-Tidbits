@@ -1,4 +1,5 @@
-# MachineLearning-Tidbits
-A repository dedicated to small projects/random implementations in Data Science & Machine Learning.
+## Text Classification using LSTM Recurrent Neural Networks
 
-All the data used in the projects is publicly available on Kaggle. All code is owned by Prem Shah
+## Reference:
+
+This code is part of the Udacity Deep Learning Nanodegree. The repository for the same can be found [here](https://github.com/udacity/deep-learning)
