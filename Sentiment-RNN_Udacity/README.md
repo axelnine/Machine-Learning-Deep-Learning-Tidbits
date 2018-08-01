@@ -1,4 +1,3 @@
-# MachineLearning-Tidbits
-A repository dedicated to small projects/random implementations in Data Science & Machine Learning.
+# Sentiment Analysis - Text Classification via LSTM Networks
 
-All the data used in the projects is publicly available on Kaggle. All code is owned by Prem Shah
+Trying to learn tensorflow and how RNNs work in tensorflow via this [Udacity Deep Learning NanoDegree Notebook](https://github.com/udacity/deep-learning/blob/master/sentiment-rnn/Sentiment_RNN_Solution.ipynb). This notebook does text classification on movie reviews.
