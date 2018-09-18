@@ -3,4 +3,4 @@ A repository dedicated to small projects/random implementations in Data Science 
 
 ## Reference/Data
 
-All the data used in the projects is publicly available on Kaggle/Udacity. All code is owned by Prem Shah
+All the data used in the projects is publicly available on Kaggle/Udacity. All code is owned by [Prem Shah]{github.com/axelnine}
